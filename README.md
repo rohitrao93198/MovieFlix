@@ -20,7 +20,7 @@ MovieFlix is a sleek and modern movie application built with React and Vite, lev
 MovieFlix offers a lightweight, fast, and interactive experience, making it an excellent choice for movie enthusiasts. Whether you’re searching for classic films or the latest blockbusters, MovieFlix provides a seamless browsing experience.
 
 🎥 Live Demo
-👉 moviesflix1.netlify.app
+👉 https://moviesflix1.netlify.app/
 
 💡 Future Enhancements:
 
