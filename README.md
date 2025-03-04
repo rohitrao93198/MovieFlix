@@ -19,6 +19,9 @@ MovieFlix is a sleek and modern movie application built with React and Vite, lev
 🌟 Why MovieFlix?
 MovieFlix offers a lightweight, fast, and interactive experience, making it an excellent choice for movie enthusiasts. Whether you’re searching for classic films or the latest blockbusters, MovieFlix provides a seamless browsing experience.
 
+🎥 Live Demo
+👉 MovieFlix Live Demo
+
 💡 Future Enhancements:
 
 Add a search functionality to find movies quickly.
